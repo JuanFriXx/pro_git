@@ -1,5 +1,5 @@
 
-==================================[Comandos]==================================
+==============================[Comandos]==============================
 Descargar para ver mejor
 
 tsc app.ts      - Compila el archivo app.ts a app.js cada vez que lo ejecutas
