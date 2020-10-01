@@ -1,6 +1,11 @@
+
+==========================================[Comandos]==========================================
+Descargar para ver mejor
+
 tsc app.ts      - Compila el archivo app.ts a app.js cada vez que lo ejecutas
 tsc app.ts --w  - Espera por cambios en el archivo app.js para compilarlo automaticamente
 tsc --w         - Espera por cambios de archivos .ts en la carpeta actual
+tsc             - Compila todo lo que pueda de la carpeta actual
 
 git init        - Genera la carpeta .git para poder subirlo a la plataforma
 tsc --init      - Crea el archivo tsconfig.json

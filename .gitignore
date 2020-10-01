@@ -1,0 +1,3 @@
+# Aqui ponemos lo que queramos ignorar para que no se suba a la plataforma
+# Por ejemplo /dist/ o /src/app.ts
+# Tambien se pueden utilizar comodines como *.ts para ignorar los archivos .ts
